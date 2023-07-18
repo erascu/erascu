@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene ( @erascu )
 - 👀 I’m interested in FrontEND Development
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React-JS
 <!--- - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
