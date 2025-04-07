@@ -23,24 +23,24 @@ Graduated from Northcoders bootcamp, now focused on crafting clean, user-first w
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)<br><br>
 
 ## **🌟 Featured Projects**  
-### **1. [NC News](https://github.com/erascu/nc-news)**
-📌 A full-stack news platform inspired by Reddit, built as part of the Northcoders bootcamp. The backend is a [RESTful API](https://github.com/erascu/nc-news-api) I developed to handle articles, topics, users, comments, and voting, with full CRUD functionality. The frontend is a React-based application that consumes this API, allowing users to browse, post, comment, and vote in an interactive and responsive interface.<br>
+### **1. <a href="https://github.com/erascu/nc-news" target="_blank" rel="noopener noreferrer">NC News</a>**
+📌 A full-stack news platform inspired by Reddit, built as part of the Northcoders bootcamp. The backend is a <a href="https://github.com/erascu/nc-news-api" target="_blank" rel="noopener noreferrer">RESTful API</a> I developed to handle articles, topics, users, comments, and voting, with full CRUD functionality. The frontend is a React-based application that consumes this API, allowing users to browse, post, comment, and vote in an interactive and responsive interface.<br>
 
 🔹 **Tech:** React, React Router, React Hook Form, Axios, Tailwind CSS, Node.js, Express, Husky, PostgreSQL, Jest<br>
-🔹 [Live Demo](https://nc-news-hub.netlify.app/)<br>
-🔹 [BackEnd Demo](https://nc-news-api-qfui.onrender.com/api)
+🔹 <a href="https://nc-news-hub.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
+🔹 <a href="https://nc-news-api-qfui.onrender.com/api" target="_blank" rel="noopener noreferrer">BackEnd Demo</a>
 
-### **2. [FitSpo app](https://github.com/floydrise/fitspo-app)**
+### **2. <a href="https://github.com/floydrise/fitspo-app" target="_blank" rel="noopener noreferrer">FitSpo app</a>**
 📌 A full-featured full-stack fitness web application that allows users to explore 1,300+ exercises, build custom workouts, and track their progress over time. Users can log sets and reps, view workout history, and analyse progress through a personal dashboard with charts and stats. Guests can browse exercises, while full tracking features are available upon registration.<br>
 
 🔹 **Tech:** React, Next.js, Tailwind CSS, TypeScript, Node.js, PostgreSQL, Vercel, Neon<br>
-🔹 [Live Demo](https://fitspo-app-mu.vercel.app/)<br>
+🔹 <a href="https://fitspo-app-mu.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a><br>
 
-### **2. [React Pizza](https://github.com/erascu/react-pizza-v2)**
+### **3. <a href="https://github.com/erascu/react-pizza-v2" target="_blank" rel="noopener noreferrer">React Pizza</a>**
 📌 A React-based frontend e-commerce application simulating an online pizza store. Users can browse pizzas, apply filters and sorting options, search for specific items, and customise orders with different dough types and sizes. The app also features a shopping cart, allowing users to adjust quantities, remove items, and view total price calculations.<br>
 
 🔹 **Tech:** React, React Router, Axios, Sass, TypeScript, Redux Toolkit<br>
-🔹 [Live Demo](https://reactpizza-erascu.vercel.app/)<br><br>
+🔹 <a href="https://reactpizza-erascu.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a><br><br>
 
 ## **📫 Let's Connect**  
-💼 [LinkedIn](https://www.linkedin.com/in/erascu/)
+💼 <a href="https://www.linkedin.com/in/erascu/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
